@@ -4,7 +4,7 @@ QuickBite 🍔 is a Flutter-based online food delivery application developed as 
 **Features**
 
 1.Splash screen with app branding 
-2.Guest access (no login or signup required) 
+2.Guest access (no login or signup required)
 3.Category-based food browsing 
 4.Restaurant listing per category 
 5.Menu with item images and prices 
