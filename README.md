@@ -22,4 +22,4 @@ Flutter navigation State management basics UI design principles Data handling us
 **Developed by:** 
 Abdul Rehman Ali 
 **Linkedin:** 
-https://www.linkedin.com/in/abdul-rehman-ali-24964735b/
+https://www.linkedin.com/in/abdul-rehman-ali/
